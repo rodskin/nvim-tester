@@ -4,6 +4,4 @@ alias cp='cp -i'
 alias ll="ls -alh --color=auto --group-directories-first "
 alias grep="grep --color"
 alias curdate='date +%Y%m%d%H%M%S'
-alias apachelogs='tail -f /var/log/apache2/error.log'
-alias iw3logs='tail -f /var/www/priv/foinfo/log/error.log'
 alias vi='vim'
